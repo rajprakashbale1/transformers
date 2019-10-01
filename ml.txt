@@ -1,0 +1,17 @@
+1. Push the multiprocessing project to new kub
+2. Test with multiprocessing + multi threading
+3. SSD and faces count matching
+4. Predicting the dress
+5. Get the old API up and running
+
+Future
+6. Reduce the time of imageprocessing
+
+
+https://towardsdatascience.com/transformers-141e32e69591
+https://www.analyticsvidhya.com/blog/2019/07/pytorch-transformers-nlp-python/
+https://www.tensorflow.org/tutorials/text/transformer
+https://medium.com/inside-machine-learning/what-is-a-transformer-d07dd1fbec04
+https://www.quora.com/What-is-the-difference-or-relation-between-the-attention-mechanism-and-the-gates-in-LSTM
+https://blog.floydhub.com/gpt2/#targetText=GPT%2D2%20stands%20for%20%E2%80%9CGenerative,tokens%20in%20an%20unsupervised%20way.
+https://towardsdatascience.com/what-is-transfer-learning-8b1a0fa42b4
